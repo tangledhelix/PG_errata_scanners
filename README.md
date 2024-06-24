@@ -11,7 +11,7 @@ This is an [errata report][1] for a [Project Gutenberg][2] EBook.
 
 [3]: https://www.gutenberg.org/ebooks/73886
 
-Assigned ID `TBD`
+Assigned ID `[errata #17749]`
 
 ### Corrections
 
